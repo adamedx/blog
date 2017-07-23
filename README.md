@@ -1,2 +1,2 @@
 # blog
-Hosting for my blog
+My blog will live here... someday.
